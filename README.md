@@ -12,6 +12,7 @@ _Step into the cutting-edge field of machine learning engineering with this comp
 
 - ✨ End-to-End Machine Learning
     - Design and Exploration
+        - EDA  
     - Model Training and Evaluation
     - Model Deployment
     - Model Monitoring
